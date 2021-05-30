@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding ='UTF-8' ?>
+<bookstore>
+    <books category="Classic">
+        <book_no>1</book_no>
+        <book_name>aaa</book_name>
+        <author_name>bbb</author_name>
+        <price>100</price>
+        <year>2000</year>
+    </books>
+    <books category="Horror">
+        <book_no>2</book_no>
+        <book_name>ccc</book_name>
+        <author_name>ddd</author_name>
+        <price>200</price>
+        <year>2010</year>
+    </books>
+    <books category="Adventure">
+        <book_no>3</book_no>
+        <book_name>eee</book_name>
+        <author_name>fff</author_name>
+        <price>300</price>
+        <year>2020</year>
+    </books>
+</bookstore>
